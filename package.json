@@ -12,6 +12,7 @@
         "assignmentId": "12969"
     },
     "dependencies": {
-        "autocorector": "^3.1.6"
+        "autocorector": "^3.1.6",
+        "express-generator": "^4.16.1"
     }
 }
